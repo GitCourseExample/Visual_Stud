@@ -9,6 +9,8 @@ namespace WorkWithGit
             Console.WriteLine("Hello World!");
             Console.ReadLine();
             // КОММЕНТАРИЙ ДЛЯ НОВОЙ ВЕТКИ
+            
+            // КОММЕНТАРИЙ ИЗ GITHUB
         }
     }
 }
